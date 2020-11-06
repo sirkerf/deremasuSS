@@ -1,10 +1,10 @@
 # Fdb version 3
-["dvipdf"] 1604654709 "out/test1.dvi" "out/test1.pdf" "out/test1" 1604654825
+["dvipdf"] 1604654709 "out/test1.dvi" "out/test1.pdf" "out/test1" 1604655213
   "out/test1.dvi" 1604654709 820 b2f0a152f6b6904710fee666506799cd "latex"
   (generated)
   "out/test1.pdf"
-["latex"] 1604654708 "/Users/sirkerf/Desktop/writing/deremasuSS/test1.tex" "out/test1.dvi" "test1" 1604654825
-  "/Users/sirkerf/Desktop/writing/deremasuSS/test1.tex" 1604654718 324 3174b87e6baea2ecd76e5c57b3e2fc82 ""
+["latex"] 1604654708 "/Users/sirkerf/Desktop/writing/deremasuSS/test1.tex" "out/test1.dvi" "test1" 1604655213
+  "/Users/sirkerf/Desktop/writing/deremasuSS/test1.tex" 1604655211 324 3174b87e6baea2ecd76e5c57b3e2fc82 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1480098698 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1480098698 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -63,8 +63,8 @@
   "/usr/local/texlive/2017/texmf-var/web2c/eptex/platex.fmt" 1518089629 4347265 e76d69e13bd18a5acb3fd526592fd178 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "out/test1.aux" 1604654709 99 0069cb3f6c8e4339f8e7dc82a2b6355b ""
-  "test1.tex" 1604654718 324 3174b87e6baea2ecd76e5c57b3e2fc82 ""
+  "test1.tex" 1604655211 324 3174b87e6baea2ecd76e5c57b3e2fc82 ""
   (generated)
-  "out/test1.log"
-  "out/test1.aux"
   "out/test1.dvi"
+  "out/test1.aux"
+  "out/test1.log"
